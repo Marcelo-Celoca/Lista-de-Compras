@@ -1,3 +1,5 @@
+`![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)`
+
 # 🛒 Lista de Compras Inteligente em Python
 
 Este projeto é uma aplicação de console que permite ao usuário gerenciar uma lista de compras de forma dinâmica, com foco na prática de manipulação de listas e tratamento de erros.
