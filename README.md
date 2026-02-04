@@ -2,7 +2,7 @@
 
 # 🛒 Lista de Compras Inteligente em Python
 
-Este projeto é uma aplicação de console que permite ao usuário gerenciar uma lista de compras de forma dinâmica, com foco na prática de manipulação de listas e tratamento de erros.
+Este projeto é uma aplicação de console que permite ao usuário gerenciar uma lista de compras de forma dinâmica, com foco na prática de **manipulação de listas** e **tratamento de erros**.
 
 ## 📋 Sobre o Projeto
 O objetivo foi criar uma ferramenta funcional onde o usuário pudesse não apenas adicionar e visualizar itens, mas também gerenciar erros de entrada e realizar a remoção de itens específicos utilizando índices numéricos.
